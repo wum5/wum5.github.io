@@ -1,13 +1,22 @@
----
-layout: default
-title: Architect Theme by Jason Long
----
+<!DOCTYPE html>
+<html>
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+	<head>
+		<!-- meta is used to add extra characters -->
+		<meta charset="utf-8"/>  
+		<title> Meng Wu's Homepage </title>
+		<link rel="stylesheet" href="main.css"/>
+	</head>
+	
+	<body>
+		<h2> About Me </h2>
+		<p> <a href="research.html">My Research</a> </p>
+		<p> <a href="publication.html">My Publications</a> </p>
+		<p> <a href="http://www.google.com">Google Search</a> </p>
+		<p> I am a PhD candidate at Indiana University Bloomington, </br>
+		working in Leonie Moyle lab. My research interests fall in </br>
+		Evolutionary genomics, plant biology, bioinformatics, </br>
+		and phenotypic diversification. </p>
+	</body>
+	
+</html>
