@@ -1,0 +1,30 @@
+/* css for my personal website */
+
+h2{
+	font-family:Arial;
+	font-weight:bold;
+	background-color:lightblue;
+	color:white;
+}
+
+.left_column{
+
+}
+
+.middile_column{
+
+}
+
+.right_column{
+
+}
+
+.pic{
+	float:right;
+}
+
+span{
+	color:green
+	text-decoration:underline;
+}
+
