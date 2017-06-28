@@ -1,0 +1,11 @@
+title: Meng Wu' Homepage
+url: "https://wum5.github.io"
+baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
