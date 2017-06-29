@@ -1,10 +1,8 @@
---- layout: default ---
-
 
 ## About Me
 <img class="profile-picture" src="myself.jpg">
 
-Hi! I am a PhD candidate at Indiana University Bloomington, working in [Leonie Moyle Lab] (http://www.indiana.edu/~moylelab).
+Hi! I am a PhD candidate at Indiana University Bloomington, working in [Leonie Moyle Lab](http://www.indiana.edu/~moylelab).
 
 
 ## Research Interest
