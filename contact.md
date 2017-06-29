@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-## Social
+## Social Media
 
 * Email: [wum5@umail.iu.edu](mailto:wum5@umail.iu.edu)
 * WeChat: wumeng82
