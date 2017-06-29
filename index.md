@@ -26,4 +26,12 @@ For more detailed information see my [google citations page](https://scholar.goo
 
 ## Codes
 You can find my code/scripts for my research projects at [GitHub](https://github.com/wum5)
->
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
