@@ -3,12 +3,13 @@ layout: default
 ---
 
 ## About Me
-<img src="myself.pdf">
+
+<img class="profile-picture" src="myself.pdf">
 
 Hi! I am a PhD candidate at Indiana University Bloomington, working in [Leonie Moyle Lab](http://www.indiana.edu/~moylelab).
 
 
-## Research Interest
+## Research Interests
 My research interests fall in evolutionary genomics, plant biology, bioinformatics, and phenotypic diversification.
 My research projects focus on evolutionary genomics, by applying computational approaches on NGS and 3GS data to investigate genome evolution, species diversity and evolution of adaptive traits.
 
@@ -26,4 +27,3 @@ For more detailed information see my [google citations page](https://scholar.goo
 ## Codes
 You can find my code/scripts for my research projects at [GitHub](https://github.com/wum5)
 
-##  
