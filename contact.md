@@ -16,7 +16,7 @@ is_contact: true
 
 ## Mailing Address
 
-639, E Alpine Trail,
+639 E Alpine Trail,
 Bloomington, Indiana,
 United States, 47401
 
