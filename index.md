@@ -15,7 +15,7 @@ The focus of my research projects is to apply computational approaches on NGS an
 
 
 ## Publications
-1. **Meng Wu**, Jamie L Kostyun, Matthew W. Hahn, Leonie Moyle. (under review). Dissecting the basis of novel trait evolution in a radiation with widespread phylogenetic discordance. doi: https://doi.org/10.1101/201376
+1. **Wu M**, Kostyun JL, Hahn MW, Moyle LC. (under review). Dissecting the basis of novel trait evolution in a radiation with widespread phylogenetic discordance. doi: https://doi.org/10.1101/201376
 2. **Wu M**, Lewis J, Moore RC. 2017. A wild origin of the loss-of-function lycopene beta cyclase (CYC-b) allele in cultivated, red-fleshed papaya (Carica papaya) American Journal of Botany 104:1-11. 	 		
 3. **Wu M** and Moore RC. 2015. The evolutionary tempo of sex chromosome degradation in Carica papaya. Journal of Molecular Evolution 80:265-277.	
 4. Lappin FM, Medert CM, Hawkins K, Mardonovich S, **Wu M**, Moore RC. 2015. A polymorphic pseudoautosomal boundary in the Carica papaya sex chromosomes. Molecular Genetics and Genomics 290:1511-1522.	
