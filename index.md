@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="myself.png" width="120" height="120">
 
-Hi! I am a PhD candidate at Indiana University Bloomington, working in [Leonie Moyle Lab](http://www.indiana.edu/~moylelab).
+Hi! I am a PhD candidate at Indiana University Bloomington. My major is evolutionary genetics and my minor is bioinformatics. I am working in [Leonie Moyle Lab](http://www.indiana.edu/~moylelab) for my thesis projects.
 
 
 ## Research Interests
