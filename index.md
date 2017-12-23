@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="myself.pdf" width="120" height="120">
+<img class="profile-picture" src="myself.png" width="120" height="120">
 
 Hi! I am a PhD candidate at Indiana University Bloomington, working in [Leonie Moyle Lab](http://www.indiana.edu/~moylelab).
 
